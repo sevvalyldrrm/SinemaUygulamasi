@@ -1,0 +1,16 @@
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\bin\Debug\net5.0\SinemaUygulamasi.exe
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\bin\Debug\net5.0\SinemaUygulamasi.deps.json
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\bin\Debug\net5.0\SinemaUygulamasi.runtimeconfig.json
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\bin\Debug\net5.0\SinemaUygulamasi.runtimeconfig.dev.json
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\bin\Debug\net5.0\SinemaUygulamasi.dll
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\bin\Debug\net5.0\SinemaUygulamasi.pdb
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\obj\Debug\net5.0\SinemaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\obj\Debug\net5.0\SinemaUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\obj\Debug\net5.0\SinemaUygulamasi.AssemblyInfoInputs.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\obj\Debug\net5.0\SinemaUygulamasi.AssemblyInfo.cs
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\obj\Debug\net5.0\SinemaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\obj\Debug\net5.0\SinemaUygulamasi.dll
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\obj\Debug\net5.0\refint\SinemaUygulamasi.dll
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\obj\Debug\net5.0\SinemaUygulamasi.pdb
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\obj\Debug\net5.0\SinemaUygulamasi.genruntimeconfig.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G055\SinemaUygulamasi-G055\SinemaUygulamasi\SinemaUygulamasi\obj\Debug\net5.0\ref\SinemaUygulamasi.dll
